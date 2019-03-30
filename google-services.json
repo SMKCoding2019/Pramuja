@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "478231902139",
+    "firebase_url": "https://koyo-app.firebaseio.com",
+    "project_id": "koyo-app",
+    "storage_bucket": "koyo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478231902139:android:98e2c33c0cc67792",
+        "android_client_info": {
+          "package_name": "www.smktelkom.mlg.sch.koyo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478231902139-5t2r2jvk92e6ul8ep85r8g54hqkbjefo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.smktelkom.mlg.sch.koyo2",
+            "certificate_hash": "1eede29d2343b9dfb3085b3b85de985522264c22"
+          }
+        },
+        {
+          "client_id": "478231902139-kouhpkvrhh0rj0354u6b563rugrho38c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8tCwXYTaA24hkqkLX-Kzch7YoZzlFilU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478231902139-kouhpkvrhh0rj0354u6b563rugrho38c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
